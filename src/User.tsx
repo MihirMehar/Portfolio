@@ -1,7 +1,7 @@
 import { IconBrandGithub, IconBrandInstagram, IconBrandLeetcode, IconBrandLinkedin, IconBrandYoutube } from "@tabler/icons-react";
 const Info = {
     name: "Mihir Mehar",
-    stack: ["Java Software Engineer", "Java SpringBoot Developer"],
+    stack: ["Software Engineer", "Java SpringBoot Developer"],
     bio: "I'm a passionate software engineer specialized in crafting efficient and scalable solutions, deliver top-notch web applications, and Demonstrated expertise in crafting efficient, scalable solutions and a strong track record of problem-solving. Let's connect and create something amazing together!"
 }
 
@@ -44,7 +44,7 @@ const ProjectInfo = [
 const SkillInfo = [
     {
         title: "Programming Languages",
-        skills: ["Java 8/11", "JavaScript", "PostgresSQL", "MySql Workbench", "C++", "Javascript", "Typescript"]
+        skills: ["Java 8/11", "JavaScript", "PostgresSQL", "MySql Workbench", "C++", "TypeScript"]
         
     },
     {
@@ -53,7 +53,7 @@ const SkillInfo = [
     },
     {
         title: "Frontend Frameworks",
-        skills: ["React JS ", "Angular", "Thymeleaf", "Bootstrap", "Material-UI"]
+        skills: ["React-JS", "Angular", "Thymeleaf", "Bootstrap", "Material-UI"]
     },
 
     {
